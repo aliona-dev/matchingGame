@@ -5,7 +5,6 @@ from tkinter import *
 from tkinter import messagebox
 from typing import List
 
-from PIL import ImageTk, Image
 
 root = tk.Tk()
 root.title('Pattern Matching Game')
